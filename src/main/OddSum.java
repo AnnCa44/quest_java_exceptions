@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class OddSum {
 
     public static void main(String[] args) {
+
         run(args, false);
     }
 
